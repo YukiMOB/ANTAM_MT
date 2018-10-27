@@ -1,0 +1,15 @@
+﻿  ANTAM_MT.cpp
+  Dynamixel.cpp
+d:\reserch_antam\antam_mt-mob\antam_mt\antam_mt\src\dynamixel.cpp(39): warning C4244: '=': 'int64' から 'double' への変換です。データが失われる可能性があります。
+d:\reserch_antam\antam_mt-mob\antam_mt\antam_mt\src\dynamixel.cpp(95): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\reserch_antam\antam_mt-mob\antam_mt\antam_mt\src\dynamixel.cpp(96): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  File.cpp
+  Flag.cpp
+  Image.cpp
+  mbed.cpp
+  コード生成しています。
+  0 of 493 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  ANTAM_MT.vcxproj -> D:\Reserch_ANTAM\ANTAM_MT-MOB\ANTAM_MT\x64\Release\ANTAM_MT.exe
